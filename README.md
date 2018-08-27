@@ -1,7 +1,7 @@
 #######README##########
 
 Welcome to our game.
-By design, this game is extremely intuitive and therefore requires little in the way of explanation. It's fun for a player to experiment with the game mechanics and discover how the game works.
+By design, this game is extremely intuitive and therefore requires little in the way of explanation. It's fun for a player to experiment with the game mechanics and discover how the game works. Awesome!
 
 Broadly, the player should complete quests in order to increase his attack power. After enhancing his skills, the player can then fight other characters that have been created by other users. Any character that is created (and still alive) can be accessed at a later date if the user wants to continue his progress.
 
